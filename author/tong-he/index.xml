@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong He | Peipei Zhou&#39;s Homepage</title>
+    <link>https://ariesll.github.io/author/tong-he/</link>
+      <atom:link href="https://ariesll.github.io/author/tong-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 May 2018 11:04:02 +0000</lastBuildDate>
+    <image>
+      <url>https://ariesll.github.io/media/icon_hu1250aaa54d869e747b2648a1402f0494_97654_512x512_fill_lanczos_center_3.png</url>
+      <title>Tong He</title>
+      <link>https://ariesll.github.io/author/tong-he/</link>
+    </image>
+    
+    <item>
+      <title>ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA</title>
+      <link>https://ariesll.github.io/publication/2018_fccm_staccel/</link>
+      <pubDate>Wed, 16 May 2018 11:04:02 +0000</pubDate>
+      <guid>https://ariesll.github.io/publication/2018_fccm_staccel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
