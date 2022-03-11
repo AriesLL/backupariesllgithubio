@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ariesll.github.io/sitemap.xml
